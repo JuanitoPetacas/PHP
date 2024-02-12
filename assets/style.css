@@ -1,0 +1,104 @@
+
+
+.login{
+    margin-top: 13%;
+    margin-bottom: 13%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    box-shadow: -2px 7px 29px 15px rgba(203,203,203,0.75);
+-webkit-box-shadow: -2px 7px 29px 15px rgba(203,203,203,0.75);
+-moz-box-shadow: -2px 7px 29px 15px rgba(203,203,203,0.75);
+
+}
+.rowsito{
+    justify-content: center;
+   
+}
+
+
+
+.botoncitos{
+    display: flex;
+    padding-top: 10%;
+    
+}
+.botoncitos button{
+    text-decoration: none;
+}
+.btnRegis a{
+    text-decoration: none;
+    color: white;
+}
+.btnEnviar{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.contentLogin{
+  margin: auto;
+  padding-bottom: 8%;
+  padding-top: 8%;
+}
+.btnCancel{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    
+}
+.btnCancel a{
+    text-decoration: none;
+    color: white;
+}
+
+.head{
+    
+    padding-top: 3%;
+    text-align: center;
+    padding-bottom: 4%;
+    color: white;
+    
+    background-color: rgb(251, 185, 63);
+    border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+   
+
+}
+.head h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contentLogin input{
+    margin-bottom: 3%;
+   
+    
+}
+.contentLogin label{
+    font-size: medium;
+    font-family:sans-serif;
+}
+
+.botones{
+    margin: auto;
+    padding-top: 4%;
+    
+    text-align: center;
+
+}
+
+body{
+    background-image: url(http://localhost/ProyectoUsuarios/assets/image/tools-4088531_1280.jpg);
+    
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+

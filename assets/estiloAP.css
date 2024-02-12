@@ -1,0 +1,82 @@
+
+.contentForm{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    margin-bottom: 10%;
+}
+.input{
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+
+.btnEx{
+    margin-top: 6%;
+    margin-bottom: 4%;
+    padding-bottom: 4%;
+    display: flex;
+    justify-content: end;
+   
+}
+.botones{
+    margin-top: 15%;
+    display: flex;
+    align-items: self-end;
+    justify-content: space-around;
+}
+
+.headF{
+    margin-top: 30%;
+    text-align: center;
+    border-radius: 18px 18px 0px 0px;
+-webkit-border-radius: 18px 18px 0px 0px;
+-moz-border-radius: 18px 18px 0px 0px;
+    box-shadow: 0px 8px 60px 0px rgba(255,255,255,0.71);
+-webkit-box-shadow: 0px 8px 60px 0px rgba(255,255,255,0.71);
+-moz-box-shadow: 0px 8px 60px 0px rgba(255,255,255,0.71);
+background-color: orange;
+}
+
+.headF h1{
+    color: white;
+    padding-bottom: 2%;
+}
+.bodyF{
+    
+    padding-top: 4%;
+    padding-bottom: 6%;
+    border-radius: 0px 0px 18px 18px;
+-webkit-border-radius: 0px 0px 18px 18px;
+-moz-border-radius: 0px 0px 18px 18px;
+box-shadow: 0px 8px 60px 0px rgba(255,255,255,0.71);
+-webkit-box-shadow: 0px 8px 60px 0px rgba(255,255,255,0.71);
+-moz-box-shadow: 0px 8px 60px 0px rgba(255,255,255,0.71);
+background-color: white;
+display: flex;
+justify-content: center;
+}
+.btnCancelar a{
+    color: white;
+    text-decoration: none;
+}
+.btnCancelar{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.bodyb{
+    background-image: linear-gradient(45deg, rgba(0,0,0,0.7030461842940301) 32%, rgba(0,0,0,0.5041666324733018) 58%, rgba(0,0,0,0.207247864966299) 76%, rgba(255,255,255,0) 100%),
+    url(image/jelleke-vanooteghem-MohB4LCIPyM-unsplash.jpg);
+    
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

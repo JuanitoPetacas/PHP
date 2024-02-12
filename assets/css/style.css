@@ -1,0 +1,56 @@
+
+
+.login{
+    
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    box-shadow: -2px 7px 29px 15px rgba(203,203,203,0.75);
+-webkit-box-shadow: -2px 7px 29px 15px rgba(203,203,203,0.75);
+-moz-box-shadow: -2px 7px 29px 15px rgba(203,203,203,0.75);
+
+}
+.rowsito{
+    justify-content: center;
+}
+
+.btn-btn-primary{
+    display: flex;
+    
+    
+}
+
+.contentLogin{
+  margin: auto;
+  padding-bottom: 8%;
+  padding-top: 8%;
+}
+.contentLogin h1{
+    text-align: center;
+    padding-bottom: 7%;
+}
+.contentLogin input{
+    margin-bottom: 3%;
+}
+
+.botones{
+    margin: auto;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    text-align: center;
+
+}
+.contenidox{
+    background-image: url("img/screws-656724_1280.jpg") ;
+    background-color: aquamarine;
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+body{
+    background-color: black;
+}
